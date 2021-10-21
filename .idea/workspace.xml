@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9549421c-2833-4e1f-a2ae-579121c89ccd" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/SimplexLinearProgramming/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/SimplexLinearProgramming/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimplexLinearProgramming/output/SimplexTable.csv" beforeDir="false" afterPath="$PROJECT_DIR$/SimplexLinearProgramming/output/SimplexTable.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SimplexLinearProgramming" />
+  </component>
+  <component name="ProjectId" id="1znsMOFVLc0M4hujbdkoiCJBOqO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9549421c-2833-4e1f-a2ae-579121c89ccd" name="默认的" comment="" />
+      <changelist id="" name="New changelist" comment="" />
+      <created>1634795138729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634795138729</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/SimplexLinearProgramming" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="0" key="CommitChangelistDialog2" timestamp="1634796266186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="168" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1634796266186" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1634795524517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1634795524517" />
+    <state x="496" y="107" key="FileChooserDialogImpl" timestamp="1634795291705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1634795291705" />
+    <state x="516" y="263" key="Github.ShareDialog" timestamp="1634796462331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="263" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1634796462331" />
+    <state x="138" y="0" key="SettingsEditor" timestamp="1634796624117">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="138" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1634796624117" />
+    <state x="596" y="269" key="VCS.EditChangelistDialog" timestamp="1634795181240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="596" y="269" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1634795181240" />
+    <state x="186" y="269" width="733" height="246" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1634796509084">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="186" y="269" width="733" height="246" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1634796509084" />
+  </component>
+</project>
