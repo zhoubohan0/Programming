@@ -4,4 +4,5 @@
 2. TransportationProblem：运输问题Vogel法初始化
 3. AssignmentProblem：匈牙利法求解指派问题
 4. Graph：多源最短距离Floyd
+5. DynamicProgramming：背包问题动态规划
 
